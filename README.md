@@ -13,8 +13,9 @@ Control your computer pointer **hands-free** using just your webcam and intuitiv
 * **Cross-platform Python** – Core CV logic uses [MediaPipe Hands](https://developers.google.com/mediapipe) and OpenCV, tested on Windows.
 
 ## Demo
-DEMO GOES HERE
 
+You can see the demo here:
+https://github.com/user-attachments/assets/5bc6141f-73c1-4a0b-863e-2a818e9acc57
 
 ## Installation
 > Tested with **Python 3.10+** on Windows 10/11.
